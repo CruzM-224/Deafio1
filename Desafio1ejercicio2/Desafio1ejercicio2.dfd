@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese 4 numeros'
+6
+3
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+num3
+1
+0
+6
+1
+4
+num4
+1
+0
+5
+1
+22
+num1, num2, num3, num4
+6
+2
+4
+suma
+11
+num1 + num2
+14
+multiplicacion
+11
+num3 * num4
+4
+1
+47
+'La suma de los dos primeros es igual a ', suma
+4
+1
+65
+'El producto del tercero y el cuarto es igual a ', multiplicacion
+1
